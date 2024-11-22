@@ -7,7 +7,7 @@ const tamanhoFonte = gets();
 const nomeBrinquedo = gets();
 
 // TODO: Construa a tag <h1> com o estilo CSS, completando com as variáveis representando cada estilização
-const resultado = `<h1 style="color: ${}; font-size: ${};">${nomeBrinquedo}</h1>`;
+const resultado = `<h1 style="color: ${cor}; font-size: ${tamanhoFonte};">${nomeBrinquedo}</h1>`;
 
 // Exibindo o resultado no console
 print(resultado);
