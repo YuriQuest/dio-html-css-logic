@@ -11,6 +11,6 @@ let brinquedo3 = gets();
 print("<ul>");
 print(`<li>${brinquedo1}</li>`);
 // TODO: Preencha o código abaixo com as variáveis que representam os nomes dos brinquedos
-print(`<li>${}</li>`);
-print(`<li>${}</li>`);
+print(`<li>${brinquedo2}</li>`);
+print(`<li>${brinquedo3}</li>`);
 print("</ul>");
